@@ -2,3 +2,4 @@ Add new help txt
 add new original merge commit
 
 Initial squash commit
+Secondary squash commit
